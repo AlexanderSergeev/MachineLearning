@@ -1,3 +1,3 @@
 # MachineLearning
 
-Домашнее задание №1 - LR1.ipynb
+Лабораторная работа - LR1.ipynb
