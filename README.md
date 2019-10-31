@@ -1,3 +1,3 @@
 # MachineLearning
 
-Лабораторная работа по машинному обучению - LR.ipynb
+Machine Learning Basics
